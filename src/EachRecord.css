@@ -1,0 +1,13 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 95%;
+    margin: 10px auto;
+    padding: 10px 0;
+  }
+td {
+    text-align: center;
+}
+.noooooo {
+    display: none;
+}
